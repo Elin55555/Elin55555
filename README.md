@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there I'm Elin 👋
 
-<!--
-**Elin55555/Elin55555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👩‍💻 Data Analyst based in Tokyo
+I specialize in transforming raw data into actionable business insights using R, SQL, and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: **Data Analysis Projects using R**
+- 🌱 I’m currently learning: **Advanced SQL & Machine Learning**
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/elinj-data-analytics/)
+- 🌐 Visit my [Portfolio Website](https://elin55555.github.io/)
+
+---
+
+### 🛠️ Tech Stack
+* **Analysis:** R (Tidyverse, ggplot2), SQL
+* **Visualization:** Tableau, R Studio
+* **Tools:** Git, GitHub, Excel/Spreadsheets
+
+---
+
+### 📊 GitHub Stats
+![Elin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elin55555&show_icons=true&theme=minimal)
